@@ -1,0 +1,43 @@
+.container {
+  max-width: 600px; /* Ajuste conforme necessário */
+  margin: 0 auto; /* Centraliza o conteúdo */
+}
+
+.title {
+  color: #e07a5f; /* Cor de destaque, ajuste conforme necessário */
+  font-size: 2rem; /* Tamanho da fonte, ajuste conforme necessário */
+}
+
+.description {
+  color: #3d405b; /* Cor do texto, ajuste conforme necessário */
+  font-size: 1.2rem; /* Tamanho da fonte, ajuste conforme necessário */
+}
+
+.sun-section {
+  background-color: #ffcc29; /* Cor para representar o Sol, ajuste conforme necessário */
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.moon-section {
+  background-color: #2a3b4c; /* Cor para representar a Lua, ajuste conforme necessário */
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.sun-text {
+  color: #ffcc29; /* Cor para representar o Sol, ajuste conforme necessário */
+}
+
+.moon-text {
+  color: #2a3b4c; /* Cor para representar a Lua, ajuste conforme necessário */
+}
+.from-sunrise {
+  background-color: #FFD080; /* Cor do nascer do sol (amarelo claro) */
+}
+
+.to-sunset {
+  background-color: #FF6F61; /* Cor do pôr do sol (laranja escuro) */
+}
